@@ -1,1 +1,25 @@
-html{background-color: black;
+html {
+    background-color: #1d0404;
+}
+
+h1 {
+    color: #f5b507;
+    background-color: red;
+}
+
+html {
+    background-color: grey;
+}
+
+div {
+    background-color: purple;
+    color: whitesmoke;
+    width:200px ;
+    height:200px ;
+    border: tomato;
+    align-content: center;
+}
+
+a {
+    background-color: aqua;
+}
