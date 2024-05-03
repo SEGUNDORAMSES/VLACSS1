@@ -1,25 +1,8 @@
-html {
-    background-color: #1d0404;
-}
+.caja1{color: aqua; background-color: yellow; height: 250px;width: 250px;border: 2px solid black;
+padding: 20px; margin-bottom: 20px;}
+.caja2{color: blue; background-color: white;height: 250px;width: 250px}
+.caja3{color: crimson; background-color: white;height: 250px;width: 250px}
 
-h1 {
-    color: #f5b507;
-    background-color: red;
-}
+body{background-color: lightblue;}
 
-html {
-    background-color: grey;
-}
 
-div {
-    background-color: purple;
-    color: whitesmoke;
-    width:200px ;
-    height:200px ;
-    border: tomato;
-    align-content: center;
-}
-
-a {
-    background-color: aqua;
-}
