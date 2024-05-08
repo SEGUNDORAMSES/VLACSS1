@@ -1,0 +1,28 @@
+/* *{selector universal-aplica los estilos a toda la pagina web-estamos reiniciando los valores de la pagina web} */
+
+*{padding: 0;
+margin: 0;
+box-sizing: border-box}
+
+html{background-color: white;}
+
+body{background-color: #ddeae0;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #542833;
+width: 1000px;
+height: 1000px;
+margin-top: 10px;margin-bottom: 10px;margin-left: auto;margin-right: auto;}
+
+header{background-color: blue;
+height: 100px;
+color: white;}
+
+nav{background-color: #063511;
+color: #d74267;
+height: 200px;}
+
+main{background-color: #052337;
+height: 550px; color: #52d642;}
+
+footer{background-color: #c46e1c;
+height: 150px;}
